@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there! I'm [Your Name] 🛠️🚀
 
-<!--
-**itigo-732/itigo-732** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Professional & Passion
+- **Job:** 組み込みエンジニア（Embedded Systems Engineer）
+- **Hobbies:** C# / Python / TypeScript を使ったアプリケーション開発
 
-Here are some ideas to get you started:
+組み込み開発で培った「堅牢な設計」をベースに、趣味ではC#を中心にモダンな開発を楽しんでいます。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Tech Stack
+
+#### 💠 Desktop Development (Main)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+- **Frameworks:** WPF, WinUI 3, .NET
+- **Architecture:** MVVM, Reactive Extensions
+#### 🏠 Hobby (Mainly C#)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+#### 🏢 Professional (Embedded)
+- **Languages:** C / C++
+- **Focus:** RTOS / Microcontrollers / Driver Development
+
+---
+
+### 📊 GitHub Stats
+![itigo-732's stats](https://github-readme-stats.vercel.app/api?username=itigo-732&show_icons=true&theme=nord)
+
+---
+
+### 📫 Find me at
+- [Twitter/X](リンク)
+- [Zenn / Qiita](リンク)
