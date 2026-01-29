@@ -1,4 +1,4 @@
-# Hi there! I'm [Your Name] 🛠️🚀
+# Hi there! I'm 柳楽苺 🛠️🚀
 
 ### 🛠 Professional & Passion
 - **Job:** 組み込みエンジニア（Embedded Systems Engineer）
@@ -25,11 +25,7 @@
 
 ---
 
-### 📊 GitHub Stats
-![itigo-732's stats](https://github-readme-stats.vercel.app/api?username=itigo-732&show_icons=true&theme=nord)
-
----
 
 ### 📫 Find me at
-- [Twitter/X](リンク)
-- [Zenn / Qiita](リンク)
+- [Twitter/X](https://x.com/ichigo_brother)
+
